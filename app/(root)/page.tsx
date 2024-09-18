@@ -1,7 +1,6 @@
-export default function Home() {
+
+export default function Page() {
   return (
-    <main>
-      <h1>MoraLus & RojaLus</h1>
-    </main>
-  );
+    <div>page once logged in</div>
+  )
 }
