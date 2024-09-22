@@ -72,7 +72,7 @@ export default function Page() {
                     </p>
                 </div>
                 <div className="flex flex-1 justify-center">
-                    cockus-2
+
                 </div>
             </div>
         </section>
